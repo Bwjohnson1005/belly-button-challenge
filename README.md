@@ -1,3 +1,3 @@
 Code source: Ed-x Bootcamps
 
-Location in Repository: static/app.js
+Location in Repository: Starter_code/static/app.js
